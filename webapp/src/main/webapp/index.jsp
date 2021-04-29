@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes. Nothing much. It's all overrated and nothing really means anything anyways, right? </h2>
+<h2> It was a beautiful day really. I wait to get my gratitude journal. It should make me happier. Thank you in all cases.</h2>
 <h2> Love you still. Haters be hater, brothers come let go. </h2>
